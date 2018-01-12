@@ -1,5 +1,5 @@
 ---
-title: Some Coffee
+title: Products
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
